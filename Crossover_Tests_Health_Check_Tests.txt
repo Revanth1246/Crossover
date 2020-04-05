@@ -1,0 +1,15 @@
+The Following are the health check testcases for the automation.
+
+1) Ensure that the User able to login successfully with valid username and password.
+2) Ensure when user enters invalid username and valid password , user should be shown error message
+3) Ensure when user enters valid username and invalid password , user should be shown error message
+4) Ensure when user enters invalid username and invalid password , error message should be displayed
+5) The Test suite should be executed multiple times without any errors
+6) Test failures are always captured to the user console which provides genuine problems.
+7) Test code must be repetitive and much readable with minimum technical knowledge.
+8) Tests are always maintainable with the new enhancements with minimal effort
+9) Tests should be written with proper synchronisations with Application Under Test(AUT).
+10)Automation Test code should traverse the complete code under Happy Flows.
+11)Test suite can be executed frequently and fast. 
+
+

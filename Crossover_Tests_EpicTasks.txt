@@ -1,0 +1,12 @@
+The following are the action items QA can be doing
+
+1) Getting to know the scope of the epic stories/tickets after discussing with Product Owners/BAs/UX/Developers
+2) Understanding each and every stories/tickets end to end
+3) Writing SCenarios & Testcases wherever necessary for the epic stories.
+4) Create checklist or functional flow on how and what testing(Integration/UAT) needs to be performed.
+5) Whats the scope of the Automation feasibility from the epic stories.
+6) If Automation scope is feasible, identify testcases for Regression testing and Smoke Testing
+7) Start working on Automation framework designing the skeleton code.
+8) Identifying the Automation components for building robust framework.(Driver scripts, Results Files, Reusable functions,Class Modules)
+9) Participating in the meetings/discussions if required.
+10) Design the testing and release plan.
