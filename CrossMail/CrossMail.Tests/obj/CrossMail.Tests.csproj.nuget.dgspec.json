@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\qa-automation-selenium-cs\\CrossMail\\CrossMail.Tests\\CrossMail.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\qa-automation-selenium-cs\\CrossMail\\CrossMail.Tests\\CrossMail.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\qa-automation-selenium-cs\\CrossMail\\CrossMail.Tests\\CrossMail.Tests.csproj",
+        "projectName": "CrossMail.Tests",
+        "projectPath": "C:\\qa-automation-selenium-cs\\CrossMail\\CrossMail.Tests\\CrossMail.Tests.csproj",
+        "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
+        "outputPath": "C:\\qa-automation-selenium-cs\\CrossMail\\CrossMail.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Xml.Linq": {
+              "target": "Package",
+              "version": "[3.5.21022.801, )"
+            },
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
